@@ -1,0 +1,108 @@
+.tema{
+    color:red;
+    font-size: 40px;
+    background-color: rgb(0, 0, 0);
+}
+
+.desayuno{
+    background-color:rgb(255, 0, 0);
+	font-size:30px;
+	border-top-right-radius:60px;
+	border-top-left-radius:60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-style:solid;
+	border-color:#000000;
+
+    width: 49%;
+    float: left;
+
+    position:static;top: 0px; left: 0px;
+
+    
+
+    position: absolute;top: 50px; left: 50px;
+
+    position: sticky;top: 0px; left: 0px;
+
+    position: fixe; top: 0px; left: 0px;
+
+
+}
+
+
+
+.baleada{
+    background-color:rgb(255, 0, 0);
+	font-size:30px;
+	border-top-right-radius:60px;
+	border-top-left-radius:60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-style:solid;
+	border-color:#000000;
+    top: 1000px;
+    width: 49%;
+    float: right;
+
+}
+
+.empanadas{
+    background-color:rgb(255, 0, 0);
+	font-size:30px;
+	border-top-right-radius:60px;
+	border-top-left-radius:60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-style:solid;
+	border-color:#000000;
+    width: 49%;
+    float: left;
+
+}
+
+.pastelitos{
+    background-color:rgb(255, 0, 0);
+	font-size:30px;
+	border-top-right-radius:60px;
+	border-top-left-radius:60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-style:solid;
+	border-color:#000000;
+
+    width: 49%;
+    float: right;
+
+}
+
+.pollo{
+    background-color:rgb(255, 0, 0);
+	font-size:30px;
+	border-top-right-radius:60px;
+	border-top-left-radius:60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border-style:solid;
+	border-color:#000000;
+
+    width: 100%;
+    float: left;
+
+}
+
+img:hover{
+    transform: scale(0.9);
+    border-radius: 30px;
+    filter: contrast(1);
+    border-style:solid;
+	border-color:#000000;
+
+    
+}
+img{
+    transition: all 0.5s ease;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    filter: grayscale(1);
+}
